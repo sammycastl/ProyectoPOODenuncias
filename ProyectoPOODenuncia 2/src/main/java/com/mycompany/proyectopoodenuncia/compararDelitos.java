@@ -1,6 +1,6 @@
 package com.mycompany.proyectopoodenuncia;
 import java.util.List;
-/*
+
 public class compararDelitos {
     private AggHistorialExpedientes aggHistorialExpedientes;
     private AggLista aggLista;
@@ -28,4 +28,3 @@ public class compararDelitos {
         return false;
     }
 }
-*/
